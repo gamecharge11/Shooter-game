@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+body {
+    background-image: url('https://images.wallpapersden.com/image/download/fe-game_am1sbm6UmZqaraWkpJRobWllrWdma2U.jpg');
+    background-size: 100vw 100vh;
+}
+
+#heading {
+    text-align: center;
+    font-size: 4em;
+    margin-top: 400px;
+    margin-bottom: 50px;
+}
+
+#stats {
+    font-size: 2em;
+    text-align: center;
+}
